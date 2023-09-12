@@ -1,0 +1,7 @@
+[CREATE] C:\Veeam\Python\Source\first -> C:\Veeam\Python\Replica\first
+[DELETE]  -> C:\Veeam\Python\Replica\second copy
+[DELETE]  -> C:\Veeam\Python\Replica\third
+[DELETE]  -> C:\Veeam\Python\Replica\second
+[COPY] C:\Veeam\Python\Source\first - Copy -> C:\Veeam\Python\Replica\first - Copy
+[CREATE] C:\Veeam\Python\Source\second -> C:\Veeam\Python\Replica\second
+[DELETE]  -> C:\Veeam\Python\Replica\first - Copy
