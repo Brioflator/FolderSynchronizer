@@ -10,3 +10,5 @@
 - it may be needed to provide the full path of the python executable
 - the provided time MUST be in seconds
 - the log file will be created ate the specified path if it does not exist
+
+  ### The provided folders and log file are for testing purpose. The code works with any given folders and files
